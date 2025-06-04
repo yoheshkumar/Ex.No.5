@@ -1,10 +1,6 @@
-
-
-
 # EXP 5: Comparative Analysis of Naïve Prompting versus Basic Prompting Using ChatGPT Across Various Test Scenarios
 
-
-# Date:04-04-25
+# Date:12.05.2025
 # REG NO: 212222240118
 
 
